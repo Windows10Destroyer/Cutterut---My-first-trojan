@@ -1,1 +1,1 @@
-# Cutterut---My-first-trojan
+# This is a destructive trojan by me (Windows 10 Destroyer)
